@@ -1,1 +1,0 @@
-I am a graduate student at the University of Toronto. At UofT, I work under the supervision of Prof. Nathan Wiebe. I'm interested in theoretical aspects of reinforcement learning and quantum computing.
